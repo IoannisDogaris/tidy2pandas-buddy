@@ -1,0 +1,9 @@
+tidy2pandas-buddy/
+│
+├── README.md
+│
+├── docs/
+│   ├── ui_screenshot.png
+│   ├── example_translation.png
+│
+└── file_structure.txt
