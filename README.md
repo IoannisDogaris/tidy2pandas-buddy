@@ -66,6 +66,7 @@ tidy2pandas-buddy/
 │
 └── app/                      # optional (Lovable export or source files)
 ```
+
 ---
 
 ## 📄 License
