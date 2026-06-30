@@ -1,6 +1,9 @@
 # tidy2pandas‑buddy
 A lightweight web tool that automatically translates **tidyverse R code** into equivalent **pandas Python code**. Built end‑to‑end inside Lovable, tidy2pandas‑buddy helps analysts move seamlessly between ecosystems with clear, readable translations.
 
+## 🔗 Live Demo
+https://tidy-to-pandas-buddy.lovable.app/
+
 ---
 
 ## 🚀 Overview
