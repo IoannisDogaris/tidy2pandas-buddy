@@ -53,6 +53,7 @@ tidy2pandas‑buddy serves as:
 
 ## 📁 Repository Structure
 
+```
 tidy2pandas-buddy/
 │
 ├── README.md
@@ -64,7 +65,7 @@ tidy2pandas-buddy/
 ├── file_structure.txt        # optional
 │
 └── app/                      # optional (Lovable export or source files)
-
+```
 ---
 
 ## 📄 License
