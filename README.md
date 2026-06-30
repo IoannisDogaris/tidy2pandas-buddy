@@ -62,9 +62,7 @@ tidy2pandas-buddy/
 │   ├── ui_screenshot.png
 │   ├── example_translation.png
 │
-├── file_structure.txt        # optional
-│
-└── app/                      # optional (Lovable export or source files)
+└── file_structure.txt        
 ```
 
 ---
@@ -80,5 +78,4 @@ Suggestions and improvements are welcome. Feel free to open an issue or submit a
 ---
 
 ## 🌐 Author
-**Ioannis Dogaris**  
-
+**Ioannis Dogaris** 
